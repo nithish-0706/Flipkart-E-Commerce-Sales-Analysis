@@ -113,7 +113,7 @@ flipkart sales analysis/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/nithish-0706/Flipkart-E-Commerce-Sales-Analysis
+git clone https://github.com/nithish-0706/Flipkart-E-Commerce-Sales-Analysis.git
 cd flipkart-sales-analysis
 
 # 2. Install dependencies
@@ -135,5 +135,3 @@ python E-Commerce Sales Analysis.py
 ## 📄 License
 
 This project is open-sourced under the [MIT License](LICENSE).
-
-⭐ If you found this project useful, please give it a star!

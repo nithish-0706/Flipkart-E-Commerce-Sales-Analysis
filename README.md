@@ -113,8 +113,8 @@ flipkart sales analysis/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/nithish-0706/Flipkart-E-Commerce-Sales-Analysis.git
-cd flipkart-sales-analysis
+git clone https://github.com/nithish-0706 
+cd https://github.com/nithish-0706/Flipkart-E-Commerce-Sales-Analysis.git
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib openpyxl
